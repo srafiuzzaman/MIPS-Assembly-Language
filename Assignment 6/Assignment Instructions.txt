@@ -1,0 +1,14 @@
+For this assignment, please write the following MIPS programs:
+
+1. one that fills an array with every multiple of 11 from 1 to 1000 inclusively (meaning any value >= 1 TO any value <= 1000 AND the included values must also be a multiple of 11). After you have filled the array then print the array contents to the console using a loop.
+
+2. one that will add 14.69 to 16.48 THEN add 19.23 to 11.95...then print out the results sorted through code from the least to the greatest sum.
+Compile the programs.
+
+Run them and make sure they work.
+
+Please give an answer to the following question: For the assembler program you composed for second program above, some of you may be getting an output that is different than if you performed the math by hand or with a calculator. Why do you suppose someone's MIPS code could be returning a result for a calculation that is different than what would be expected?
+
+Submit a screenshot of each result.
+
+Submit all your asm files.

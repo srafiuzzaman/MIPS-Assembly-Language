@@ -1,0 +1,20 @@
+Implement MIPS assembly programs for each of the challenges listed below:
+
+Create a single assembly program that starts by asking the user for 2 integer inputs and stores the values in appropriate registers (be sure to utilize meaningful input prompts to tell the user the input expectations). With those 2 values within the variables perform the following: 
+Add the 2 integer inputs and print out the result to the console in the following format:
+Least Value + Greatest Value = Result
+
+Subtract the smaller value from the greatest value and print out the result to the console in the following format: Greatest Value - Least Value = Result
+
+Subtract the smaller value from the greatest...then use a loop to add up every number from 1 to the subtracted result value. Meaning if the subtraction instruction produced a result of 4 then the loop would add together 1 + 2 + 3 + 4 to produce a result. Then output the final loop result to the console with meaningful text.
+Each output should be on its own line (there are a couple of ways to force a line feed/return in MIPS...perhaps you could find some code examples through an Internet search). Be sure to utilize meaningful text to guide the end-users...remember that normal end-users will not be able to see your uncompiled code.
+
+This assignment is asking you to draw on all the different MIPS knowledge, instructions, and techniques we have covered throughout the course.
+
+Compile the program.
+
+Run it and make sure it work.
+
+Submit a screenshot of the result.
+
+Submit your asm file

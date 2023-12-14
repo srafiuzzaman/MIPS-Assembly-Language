@@ -1,0 +1,17 @@
+For this assignment, please write the following MIPS programs:
+
+1. multiplies 5 and 16 using shift left logical (sll) and prints the result to the console
+
+2. divides 2000 by 4 using shift right logical (srl) and prints the result to the console
+
+3. adds the following numbers: 9, 18, 21, 28, 35 and prints the result to the console
+
+4. compare 2 values using logic operations (the beq, bne, j, and slt instructions) and statement labels as needed that will subtract the least value from the greatest value and print the result to the console. PLEASE NOTE: in order to receive credit your decision structure and code must work properly regardless which variable is holding the larger value and which is holding the smaller value.
+
+Compile all programs.
+
+Run them and make sure the work.
+
+Submit a screenshot of each result.
+
+Submit all your asm files.

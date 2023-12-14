@@ -1,0 +1,18 @@
+For this assignment, please write the following MIPS programs:
+
+1. stores the values 272 and 86 into variables...loads those 2 variables into registers...adds the values together...and finally prints the result to the console
+
+2. stores the values 3844 and 791 into variables...loads those 2 variables into registers...subtracts the lower number from the greater...and finally prints the result to the console
+
+3. stores the values 413 and 212 into variables...loads those 2 variables into registers...multiplies the values together with the mul instruction...and finally prints the result to the console
+
+4. stores the literal values 5000 and 5 directly into registers...multiplies the values together with the mult instruction...and finally prints the result to the console
+
+5. stores the literal values 716 and 19 directly into registers...divides 716 by 19...and finally prints the result AND the remainder to the console.
+Compile all programs.
+
+Run them and make sure they work.
+
+Submit a screenshot of each result.
+
+Submit all your asm files.

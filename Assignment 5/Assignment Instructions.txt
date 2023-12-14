@@ -1,0 +1,11 @@
+For this assignment, please write the following MIPS programs:
+
+implements a loop that will start at the value of 0 and count up by 5s until 200...each number must be printed to the console (i.e. 0, 5, 10, 15...etc.). 
+*****Challenge: see if you can insert a line feed after each number divisible by 50.*****
+Compile the program.
+
+Run it and make sure the work.
+
+Submit a screenshot of each result.
+
+Submit all your asm files.
